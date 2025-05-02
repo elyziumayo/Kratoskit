@@ -27,6 +27,9 @@ git clone https://github.com/elyziumayo/Kratoskit.git
 # Navigate to the directory
 cd Kratoskit
 
+# Make the master script executable
+chmod +x master.sh
+
 # Run the master script
 ./master.sh
 ```
